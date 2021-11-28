@@ -6,7 +6,7 @@ function createBox({firstName, lastName, emial, avatar}) {
             <div class="p-3">
                 <img class="rounded-3 w-50 h-100" src="${avatar}">
             </div>
-            <div class="info-box d-flex flex-column justify-content-around text-white">
+            <div class="info-box d-flex flex-column justify-content-around text-white text-capitalize">
                 <span class="d-block info-name">${firstName}</span>
                 <span class="d-block info-family">${lastName}</span>
                 <span class="d-block info-email">${emial}</span>
