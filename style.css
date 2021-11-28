@@ -15,7 +15,6 @@ body, html {
 }
 
 body {
-    background-color: goldenrod;
     height: 100%;
 }
 
@@ -49,12 +48,8 @@ body {
     padding: 0.5rem;
 }
 
-.info-name {
+.color-goldenrod {
     color: goldenrod;
-}
-
-.container-fluid {
-    height: 100vh;
 }
 
 @media screen and (max-width: 300px) {
