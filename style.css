@@ -14,10 +14,6 @@ body, html {
     display: none;
 }
 
-body {
-    height: 100%;
-}
-
 .head-box {
     font-size: 2rem;
 }
@@ -30,7 +26,6 @@ body {
 
 .box {
     border: 0.1rem solid goldenrod;
-    padding: 0;
     transition: 0.3s;
     min-height: 250px;
     max-width: 250px;
@@ -50,6 +45,10 @@ body {
 
 .color-goldenrod {
     color: goldenrod;
+}
+
+.color-bg-goldenrod {
+    background-color: goldenrod;
 }
 
 @media screen and (max-width: 300px) {
