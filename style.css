@@ -45,8 +45,6 @@ body {
 }
 
 .info-box {
-    color: white;
-    text-transform: capitalize;
     font-size: 1.6rem;
     padding: 0.5rem;
 }
