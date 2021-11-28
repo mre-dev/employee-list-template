@@ -2,7 +2,7 @@ function createBox({firstName, lastName, emial, avatar}) {
     let box =
     `
     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mt-4">
-        <div class="box rounded text-center d-flex flex-column justify-content-around">
+        <div class="box p-0 rounded text-center d-flex flex-column justify-content-around">
             <div class="p-3">
                 <img class="rounded-3 w-50 h-100" src="${avatar}">
             </div>
