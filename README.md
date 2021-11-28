@@ -5,3 +5,6 @@
 <h2></h2>
 <p>
 A card-like template for displaying the list of employees, made using the bootstrap grid system and jquery, work with free online API from <a href="https://reqres.in/">apireqres.in</a> and using ajax technology.</p>
+<h2></h2>
+<p>Screenshot : </p>
+<img src="img/screenshot1.png" alt="Employee List Template Screenshot">
